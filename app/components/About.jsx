@@ -8,7 +8,7 @@ var React = require('react');
 //   }
 // });
 
-//Refactoring with arrow function
+//   Refactoring with arrow function
 
 var About = (props) => {
   return (
